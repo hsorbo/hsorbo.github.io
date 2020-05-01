@@ -8,7 +8,7 @@ title: Håvard Sørbø
 Developer, lives in Bergen, Norway
 
 ## iClue
-[iClue](/iclue.html)
+[iClue](https://github.com/hsorbo/iclue)
 
 ## Latest Posts
 <ul class="posts">

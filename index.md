@@ -3,7 +3,6 @@ layout: page
 title: Håvard Sørbø
 #tagline: Supporting tagline
 ---
-{% include JB/setup %}
 ## About
 Developer, lives in Bergen, Norway
 

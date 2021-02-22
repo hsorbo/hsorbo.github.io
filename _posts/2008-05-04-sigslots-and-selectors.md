@@ -6,7 +6,6 @@ category:
 comments: false
 tags: []
 ---
-{% include JB/setup %}
 
 I've been hacking libjingle on mac lately. Libjingle uses the sigslots library for callbacks/events/signals in C++. Objective-C/Cocoa offers the same functionality+++ through it's selectors, and even though Objective-C supports C++, aka Objective-C++, it's limited. You can't have an NSObject derived class using templates as needed by sigslots. Here comes a few dirty C++ lines which plumbs sigslots to objective-c selectors.
 
